@@ -1,0 +1,25 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "nunjucks": "^3.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiuandrei/node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiuandrei/node-test/issues"
+  },
+  "homepage": "https://github.com/claudiuandrei/node-test#readme"
+}
